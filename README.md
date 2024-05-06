@@ -1,10 +1,10 @@
 # Email Validator 
 
-Simple ** Email Validator ** created using pure python !
+Simple **Email Validator** created using pure python !
 
 ## Packages Used 
 - Streamlit
 - Streamlit-keyup
 - Email_validator
 
-Visit on :
+Visit on : https://emailvalidator-test.streamlit.app/
